@@ -1,0 +1,37 @@
+lang_name: Polski
+lang_version: 1.0
+lang_author: Patryk Prawda
+lang_updated: 15.04.2022
+
+main_enabling: Uruchamianie API
+main_disabling: Wylaczanie API
+main_disabled: API wylaczone
+
+updater_cant_connect: Nie mudalo sie polaczyc z serwerem w celu wyszukania aktualizacji
+updater_latest_version: Uzywana jest najnowsza wersja
+updater_update_available: Dostepna jest nowa wersja
+updater_used_version: Uzywana wersja
+updater_new_version: Najnowsza wersja
+updater_pre_release: Wykryto wczesna wersje, wlaczono wszystkie funkcje beta
+
+api_actionbar_displayed: Wyswietlono actionbar dla
+api_bossbar_displayed: Wyswietlono bossbar dla
+api_bossbar_removed: Usunieto bossbar dla
+api_bossbar_removed_all: Usunieto wszystkie bossbary
+api_bossbar_updated: Zaktualizowano bossbar dla
+api_hologram_created: Stworzono hologram nazwany
+api_hologram_removed: Usunieto hologram nazwany
+api_hologram_updated: Zaktualizowano hologram nazwany
+api_hologram_checking: Sprawdzanie hologramu nazwanego
+api_hologram_removed_all: Usunieto wszystkie hologramy
+api_hologram_saved_all: Zapisano wszystkie hologramy
+api_hologram_loaded_all: Wczytano wszystkie hologramy
+api_title_displayed: Wyswietlono tytul ipodtytul dla
+
+api_function_disabled: Ta funkcja jest wylaczona
+
+command_commands: Polecenia
+command_only_by_player: Tylko gracze (na serwerze) moga uzyc tego polecenia
+command_only_by_console: Tylko w konsoli serwera mozna uzyc tego polecenia
+
+error: Blad

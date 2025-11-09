@@ -1,0 +1,4 @@
+!!! DON'T USE pl.wildlabs.foxapi !!!
+
+package pl.wildlabs.foxapi is a bridge for old plugins that's using FoxAPI,
+if You write new or update plugin please use pl.wildlabs.wildapi package instead.

@@ -1,0 +1,37 @@
+lang_name: English
+lang_version: 1.0
+lang_author: Patryk Prawda
+lang_updated: 15.04.2022
+
+main_enabling: Enabling API
+main_disabling: Disabling API
+main_disabled: API disabled
+
+updater_cant_connect: Can't connect to server to search for updates
+updater_latest_version: This is latest available version
+updater_update_available: New version is available
+updater_used_version: This version
+updater_new_version: New version
+updater_pre_release: Detected pre-release build, enabled all beta functions
+
+api_actionbar_displayed: Displayed actionbar for
+api_bossbar_displayed: Displayed bossbar for
+api_bossbar_removed: Removed bossbar for
+api_bossbar_removed_all: Removed all bossbars
+api_bossbar_updated: Updated bossbar for
+api_hologram_created: Created hologram named
+api_hologram_removed: Removed hologram named
+api_hologram_updated: Updated hologram named
+api_hologram_checking: Checking hologram named
+api_hologram_removed_all: Removed all holograms
+api_hologram_saved_all: Saved all holograms
+api_hologram_loaded_all: Loaded all holograms
+api_title_displayed: Displayed title and subtitle for
+
+api_function_disabled: This function is disabled
+
+command_commands: Commands
+command_only_by_player: Only players (on server) can using this command
+command_only_by_console: This command can use only in server console
+
+error: Error
