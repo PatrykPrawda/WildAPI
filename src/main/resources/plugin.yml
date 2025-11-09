@@ -1,9 +1,9 @@
 name: WildAPI
 version: '${project.version}'
-main: pl.wildlabs.wildapi.WildAPI
+main: pl.wildlabs.wildapi.plugin.WildAPI
 api-version: '1.21'
 prefix: WildAPI
 load: STARTUP
 authors: [Patryk Wierzbicki (GempXPlay)]
-description: API for Spigot and Paper plugin developers
+description: API for Paper plugin developers
 website: wildlabs.pl
